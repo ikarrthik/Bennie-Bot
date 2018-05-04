@@ -1,0 +1,37 @@
+{
+  "name": "init",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node init.js"
+  },
+  "dependencies": {
+    "@google-cloud/speech": "latest",
+    "azure-arm-cognitiveservices": "^2.1.0",
+    "body-parser": "~1.18.2",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.9",
+    "express": "~4.15.5",
+    "ffmpeg": "0.0.4",
+    "fluent-ffmpeg": "^2.1.2",
+    "hashmap": "^2.3.0",
+    "install": "^0.11.0",
+    "jade": "~1.11.0",
+    "morgan": "~1.9.0",
+    "ms-rest-azure": "^2.5.5",
+    "node-record-lpcm16": "^0.3.0",
+    "number-to-words": "^1.2.3",
+    "openweather-node": "0.0.4",
+    "play-sound": "^1.1.2",
+    "player": "^0.6.1",
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2",
+    "require.async": "^0.1.1",
+    "say": "^0.14.0",
+    "serve-favicon": "~2.4.5",
+    "snowboy": "^1.2.0",
+    "sox": "^0.1.0",
+    "watson-developer-cloud": "^2.31.1",
+    "wav": "^1.0.1"
+  }
+}

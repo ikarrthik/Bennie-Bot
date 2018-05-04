@@ -1,0 +1,224 @@
+    1  play shape.mp3 
+    2  cd ..
+    3  ls
+    4  rm package-lock.json 
+    5  ls
+    6  cd zifo/
+    7  history 
+    8  node -v
+    9  npm -v
+   10  sudo apt update
+   11  apt list nodejs
+   12  sudo apt install nodejs
+   13  node -v
+   14  curl -sL https://deb.nodesource.com/setup_9.x | sudo -E bash -
+   15  sudo apt install nodejs
+   16  node -v
+   17  npm -
+   18  v
+   19  npm -v
+   20  sudo apt-get install swig3.0 python-pyaudio python3-pyaudio sox
+   21  pip install pyaudio
+   22  rec t.wav
+   23  aplay -l
+   24  arecord -l
+   25  aplay -l
+   26  arecord -l
+   27  aplay -l
+   28  arecord -l
+   29  rec t.wav
+   30  aplay -l
+   31  arecord -l
+   32  rec t.wav
+   33  clear
+   34  aplay -l
+   35  rec t.wav
+   36  lsusb
+   37  aplay -l
+   38  arecord -l
+   39  aplay -l
+   40  arecord -l
+   41  ls
+   42  mkdir Think
+   43  cd Think/
+   44  svn clone https://gitlab.com/pk_saravanan/zifo.git
+   45  git clone https://gitlab.com/pk_saravanan/zifo.git
+   46  cd zifo/
+   47  ls
+   48  npm install
+   49  cd ..
+   50  sudo apt-get install libatlas-base-dev
+   51  rec t.wav
+   52  arecord -l
+   53  aplay -l
+   54  arecord -l
+   55  git clone https://github.com/Kitt-AI/snowboy.git
+   56  npm install 
+   57  cd snowboy/
+   58  ./node_modules/node-pre-gyp/bin/node-pre-gyp clean configure build
+   59  ls
+   60  npm install 
+   61  ./node_modules/node-pre-gyp/bin/node-pre-gyp clean configure build
+   62  cd ..
+   63  cd zifo/
+   64  rec test.wav
+   65  aplay -l
+   66  arecord -l
+   67  aplay -l
+   68  arecord -l
+   69  nano ~/.asoundrc
+   70  rec test.wav
+   71  play test.wav 
+   72  node install
+   73  ls
+   74  cd actions/
+   75  nano actions.js 
+   76  cd ..
+   77  npm init.js 
+   78  node init.js 
+   79  npm install
+   80  sudo apt-get update && sudo apt-get upgrade
+   81  npm install
+   82  reboot 
+   83  cd Think/zifo/
+   84  play test.wav 
+   85  npm install
+   86  cd ..
+   87  cd snowboy/
+   88  ./node_modules/node-pre-gyp/bin/node-pre-gyp clean configure build
+   89  cd ..
+   90  cd zifo/
+   91  ls
+   92  nano  package.json 
+   93  nano package-lock.json 
+   94  nano actions/actions.js 
+   95  rm -rf node_modules
+   96  rm package-lock.json 
+   97  npm install
+   98  sudo apt-get install libasound2-dev
+   99  npm install
+  100  aplay -l
+  101  arecord -l
+  102  aplay -l
+  103  arecord -l
+  104  npm install
+  105  aplay -l
+  106  nano ~/.asoundrc 
+  107  aplay -l
+  108  npm start
+  109  ls
+  110  play shape.mp3 
+  111  sudo raspi-config 
+  112  nano actions/actions.js 
+  113  npm start
+  114  sudo raspi-config 
+  115  reboot
+  116  cd Think/zifo/
+  117  ls
+  118  play test.wav 
+  119  rev test.wav 
+  120  aplay -l
+  121  arecord -l
+  122  npm start
+  123  ls
+  124  rm -rf node_modules
+  125  rm package-lock.json 
+  126  npm install
+  127  ls -lash ~/
+  128  ./node_modules/node-pre-gyp/bin/node-pre-gyp clean configure build
+  129  cd ..
+  130  cd snowboy/
+  131  ./node_modules/node-pre-gyp/bin/node-pre-gyp clean configure build
+  132  cd ../zifo/
+  133  ls
+  134  rm -rf node_modules
+  135  npm install
+  136  npm start
+  137  npm init.js 
+  138  node init.js 
+  139  node -v
+  140  sudo apt update
+  141  sudo apt-get update 
+  142  sudo apt-get install nodejs
+  143  sudo apt-get autoremove 
+  144  sudo apt-get cache clean
+  145  sudo apt-get list
+  146  npm start
+  147  rec test.wav
+  148  ls
+  149  arecord -l
+  150  aplay -l
+  151  nano ~/.asoundrc 
+  152  rec test.wav
+  153  play test.wav 
+  154  sudo raspi-config 
+  155  cd ~/
+  156  cd .node-gyp/
+  157  ls
+  158  cd ..
+  159  zip .node-gyp node-gyp.zip
+  160  mv .node-gyp .node-gyp.old
+  161  ls
+  162  ls -lash
+  163  cd Think/zifo/
+  164  rec test.wav 
+  165  AUDIODEV=hw:0 play test.wav
+  166  AUDIODEV=hw:1 play test.wav
+  167  AUDIODEV=hw:1 rec test.wav
+  168  AUDIODEV=hw:1 play test.wav
+  169  AUDIODEV=hw:0 play test.wav
+  170  AUDIODEV=hw:0 rec test.wav
+  171  AUDIODEV=hw:1 rec test.wav
+  172  history 
+  173  sudo apt-get install pulseaudio
+  174  sudo cat motd
+  175  sudo cat mtab
+  176  sudo cat /etc/mtab
+  177  sudo cat /etc/motd 
+  178  sudo cat /etc/mke2fs.conf 
+  179  sudo cat /etc/manpath.config 
+  180  cat ~/.asoundrc 
+  181  nano ~/.asoundrc 
+  182  npm start 
+  183  arecord -l
+  184  aplay -l
+  185  sudo raspi-config 
+  186  nano ~/.asoundrc 
+  187  npm start 
+  188  nano init.js 
+  189  npm start 
+  190  ls
+  191  cp shape.mp3 shape.wav
+  192  play shape.wav 
+  193  play shape.mp3 
+  194  sudo apt-get install libsox-fmt-mp3
+  195  play shape.mp3 
+  196  npm start 
+  197  cat actions/actions.js 
+  198  npm install –save play-sound
+  199  npm install -save play-sound
+  200  ls
+  201  tree
+  202  ls
+  203  ls global/
+  204  ls resources/
+  205  ls speechModules/kevin.js 
+  206  nano speechModules/kevin.js 
+  207  nano actions/actions.js 
+  208  npm 
+  209  node
+  210  cat package.json 
+  211  nano actions/actions.js 
+  212  npm start
+  213  nano init.js 
+  214  npm start
+  215  sudo raspi-config 
+  216  sudo add-apt-repository ppa:webupd8team/sublime-text-3
+  217  sudo apt-get update
+  218  sudo apt-get install sublime-text-installer
+  219  sudo apt-get install sublime-text
+  220  sudo apt-get install bluefish
+  221  bluefish 
+  222  cd Desktop/
+  223  ls
+  224  history > history.raspberrypi.txt

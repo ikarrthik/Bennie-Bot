@@ -1,0 +1,5 @@
+node_modules/*
+test.wav
+/nbproject/
+/nbproject/private/
+.DS_Store
